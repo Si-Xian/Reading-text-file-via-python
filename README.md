@@ -1,7 +1,6 @@
 
 
-The first file will be the pseudocode of this project. 
-While the second file will be the location of the data to be procesed, followed by python code in the third file.
+The first file will be the location of the data to be processed, followed by python code in the second file.
 
 This simple project tries to tackle several small task:
 
