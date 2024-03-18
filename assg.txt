@@ -1,0 +1,20 @@
+12300,cooking oil,5kg,Knife,19.99,20,Ahmad Zalini,012-3460521
+12301,cooking oil,5kg,Red Eagle,22.45,9,Ahmad Zalini,012-3460522
+12302,white rice super,10kg,Jasmine,24.99,8,Albert Loo,017-6481238
+12303,white rice super,10kg,Jati,26.00,12,Albert Loo,017-6481239
+12304,white rice super,8kg,Taci,23.00,14,Eric Chua,019-2123333
+12305,chilli sauce,500g,Life,3.10,43,Eric Chua,019-2123334
+12306,chilli sauce,500g,Kimbali,3.20,35,Lee King Cho,012-3716215
+12307,tomato sauce,600g,Maggi,3.44,23,Lee King Cho,012-3716216
+12308,tomato sauce,600g,Deggi,5.44,6,Lee King Cho,012-3716217
+12309,cheese,800g,Daily,6.12,3,Asley Lau,018-2130912
+12310,cheese,800g,Fresh,5.34,34,Asley Lau,018-2130913
+12311,bread,350g,Masimo,3.44,33,Edward Lim,012-3344455
+12312,bread,450g,Gardenia,3.45,12,Edward Lim,012-3344456
+12313,chocolate bread,500g,Chewv,3.77,31,Edward Lim,012-3344457
+12314,sugar,1kg,Domino,6.00,14,Andy Ting,013-4453675
+12315,sugar,1kg,Daddy,6.00,17,Andy Ting,013-4453676
+12316,pepsi,300g,Pep,2.00,11,Andy Ting,013-4453677
+12317,soda,400g,Coke,3.00,15,Climbert Lim,019-3759361
+12318,jam,500g,Chivers,6.90,13,Climbert Lim,019-3759362
+12319,jam,500g,Hosa,6.90,15,Climbert Lim,019-3759363
